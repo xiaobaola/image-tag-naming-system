@@ -1,0 +1,4 @@
+# 图片标签命名系统依赖
+# 说明：不装 Pillow 也能启动（tkinter 原生解码），但只支持 png/gif 等，
+#       jpg/bmp/webp 会显示占位图，强烈建议安装 Pillow。
+Pillow>=9.0.0

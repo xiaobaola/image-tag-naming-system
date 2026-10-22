@@ -1,0 +1,19 @@
+# 用户数据（本地标签数据，不推送）
+tag_data.json
+
+# 静态资源目录（不推送）
+assets/
+
+# 缩略图缓存
+.thumb_cache/
+
+# Python 字节码
+__pycache__/
+*.py[cod]
+
+# PyCharm 配置
+.idea/
+
+# 虚拟环境
+venv/
+.venv/
